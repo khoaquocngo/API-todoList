@@ -1,0 +1,12 @@
+{
+	"name": "todolist",
+	"version": "0.0.1",
+	"description": "GStart Project",
+	"main": "gstart",
+	"scripts": {
+		"start": "gstart ./todolist"
+	},
+	"dependencies": {
+		"mongodb": "^3.6.3"
+	}
+}
